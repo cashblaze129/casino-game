@@ -14,20 +14,28 @@ For business inquiries, technical support, or collaboration, reach out to us:
 Our platform includes the following games, each meticulously crafted to captivate and entertain players:
 
 1. **Mine** 💎 – Test your luck by navigating the minefield.
+![Screenshot_1](https://github.com/user-attachments/assets/a6ff5282-c910-4d9c-8695-4fac502bc633)
 
 2. **Slide** 🎢 – Experience the thrill of this fast-paced, high-stakes game.
+![Screenshot_2](https://github.com/user-attachments/assets/bc45578d-8d0a-40a5-9cfa-1ae353040ed0)
 
 3. **Video Poker** 🃏 – Classic poker meets a modern twist.
+![Screenshot_3](https://github.com/user-attachments/assets/9f1390fc-ceaa-4bf3-8d54-89b62ce5842b)
 
 4. **Crash** 📈 – Ride the multiplier but cash out before it crashes!
+![Screenshot_4](https://github.com/user-attachments/assets/a3993345-fbe5-42a2-a9d2-7bde4798c54d)
 
 5. **Baccarat** 🥂 – A timeless casino favorite.
+![Screenshot_5](https://github.com/user-attachments/assets/4e7844d0-a6ae-4cf7-85c2-34e02224875a)
 
 6. **Hilo** 🔺🔻 – Guess if the next card will be higher or lower.
+![Screenshot_6](https://github.com/user-attachments/assets/bbe6366d-f74b-4366-8ff7-4e13dbe6078f)
 
 7. **Goal** ⚽ – Score your way to exciting rewards.
+![Screenshot_7](https://github.com/user-attachments/assets/0c155e52-2912-47f1-a407-5103aa984b27)
 
 8. **Blackjack** 🖤♠️ – Beat the dealer in this iconic game.
+![Screenshot_8](https://github.com/user-attachments/assets/324d3db4-860f-4d1f-aac9-3829a3ed47d3)
 
 ---
 
